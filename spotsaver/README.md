@@ -100,18 +100,11 @@ This application was developed collaboratively by **Team InnovateHers**.
 
 ## 🔗 Source Code
 
-- 👉 **[View Team Repository]([https://github.com/your-team/repository](https://github.com/sanaamariya/tink-her-hack-3-InnovateHers))**
+- 👉 **[View Team Repository](https://github.com/sanaamariya/tink-her-hack-3-InnovateHers)**
 
 ## 🎥 Project Demo
 
-- ▶️ **[Watch Demo Video]([https://drive.google.com/your-link](https://drive.google.com/file/d/1tGO0uCiK7G-e2AjPYZ-cv9uPzZHp07xc/view?usp=drive_link))**
+- ▶️ **[Watch Demo Video](https://drive.google.com/file/d/1tGO0uCiK7G-e2AjPYZ-cv9uPzZHp07xc/view?usp=drive_link)**
 
-## 🔗 Source Code
 
-👉 **[View Team Repository](https://github.com/sanaamariya/tink-her-hack-3-InnovateHers)**
----
-
-## 🎥 Project Demo
-
-👉 **[Watch Demo Video](https://drive.google.com/file/d/1tGO0uCiK7G-e2AjPYZ-cv9uPzZHp07xc/view?usp=drive_link)**
 
