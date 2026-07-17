@@ -92,3 +92,5 @@ Trezzo is a location-based mobile application that helps users discover nearby f
 
 This project was developed as part of a collaborative team project.
 
+**Original Repository:**
+https://github.com/ayshanabeel27/trezzo-app
