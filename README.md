@@ -85,5 +85,11 @@ Click on any project below to view its detailed documentation, screenshots, tech
 - 💼 **[Employee Management System](./employee-management)**
 
 ---
+## 💻 Coding Profiles
+
+| Platform | Profile |
+|----------|----------|
+| 🟧 LeetCode | https://leetcode.com/u/nikitha_05/ |
+| 🐙 GitHub | https://github.com/nikithatom |
 
 ⭐ Thank you for visiting my project portfolio!
