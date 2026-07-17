@@ -1,143 +1,89 @@
-# 💼 Nikitha Tom - Project Portfolio
+# 💼 Nikitha Tom – Project Portfolio
 
-Welcome! This repository showcases the software projects I have worked on.
+Welcome! 👋
+
+This repository showcases the software projects I have worked on during my academic journey, internships, and hackathons. Each project demonstrates different technologies, problem-solving skills, and collaborative development experience.
 
 ---
 
-# 🍽️ 1. Trezzo – Food Spot Locator
+# 🚀 Projects
 
-## Overview
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🍽️ **[Trezzo](./trezzo)** | Food Spot Locator mobile application for discovering nearby restaurants. | React Native, Expo, Firebase, Firestore, Google Maps |
+| 🔥 **[Roast or Toast](./roast-or-toast)** | AI-powered outfit analyzer that provides fashion feedback using Google Gemini Vision. | FastAPI, Python, HTML, CSS, JavaScript, Gemini API |
+| 📚 **[SpotSaver](./spotsaver)** | Library seat reservation system with real-time seat availability. | HTML, CSS, JavaScript |
+| 💼 **[Employee Management System](./employee-management)** | CRUD-based employee management application developed during my internship at MariApps Marine Solutions. | ASP.NET Core MVC, C#, ADO.NET, SQL Server |
 
-Trezzo is a mobile application that helps users discover nearby food spots.
+---
 
-### Tech Stack
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+- Python
+- C#
+- C
+- C++
+- JavaScript
+
+### Web & Mobile Development
 
 - React Native
 - Expo
-- Firebase Authentication
-- Firestore
-- Google Maps API
-
-### My Contributions
-
-- Developed authentication
-- Integrated Firestore
-- Implemented Google Maps
-- Developed UI
-- Added restaurant search
-
-### Features
-
-- Login & Signup
-- Nearby Food Spots
-- Interactive Maps
-- Search & Filters
-
-### Screenshots
-
-(Add screenshots here later)
-
----
-
-# 🤖 2. Roast or Toast
-
-## Overview
-
-AI Outfit Analyzer using Gemini API.
-
-### Tech Stack
-
-- React
-- Tailwind CSS
-- Gemini API
-
-### My Contributions
-
-- Built frontend
-- Connected AI API
-- Displayed AI recommendations
-
-### Features
-
-- Upload Image
-- AI Analysis
-- Fashion Suggestions
-
-### Screenshots
-
-(Add screenshots here later)
-
----
-
-# 📚 3. SpotSaver
-
-## Overview
-
-Library Seat Reservation System.
-
-### Tech Stack
-
-- React
-- Firebase
-- QR Code
-
-### My Contributions
-
-- QR Seat Booking
-- Reservation System
-- Seat Availability
-
-### Features
-
-- QR Scan
-- Reserve Seats
-- Admin Dashboard
-
-### Screenshots
-
-(Add screenshots here later)
-
----
-
-# 💼 4. Employee Management System
-
-## Overview
-
-Employee Management software developed during internship.
-
-### Tech Stack
-
+- HTML5
+- CSS3
+- JavaScript
 - ASP.NET Core MVC
-- C#
+- Razor Views
+
+### Databases
+
+- Firebase Firestore
 - SQL Server
 - ADO.NET
 
-### My Contributions
+### Tools & Platforms
 
-- CRUD Operations
-- Database Connectivity
-- Form Validation
-- Layered Architecture
-
-### Features
-
-- Add Employee
-- Edit Employee
-- Delete Employee
-- Search Employee
-
-### Screenshots
-
-(Add screenshots here later)
+- Visual Studio
+- VS Code
+- Git
+- GitHub
+- Firebase
+- Google Maps API
+- Google Gemini API
 
 ---
 
-# 🛠 Skills Demonstrated
+# 📌 Highlights
 
-- React Native
-- ASP.NET Core MVC
-- Firebase
-- SQL Server
-- Git & GitHub
-- Python
-- C#
+- 📱 Mobile Application Development
+- 🤖 AI-powered Applications
+- 🌍 Maps & Location Services
+- 🔐 User Authentication
+- 📊 CRUD Applications
+- 🗃️ Database Design
+- ☁️ Firebase Integration
+- 🏢 Enterprise Software Development
+- 🤝 Team Collaboration
+
+---
+
+# 👩‍💻 About Me
+
+I am a Computer Science and Business Systems student passionate about software development, full-stack web technologies, mobile application development, and AI. I enjoy building practical applications, learning new technologies, and collaborating on innovative projects.
+
+---
+
+# 📂 Explore My Projects
+
+Click on any project below to view its detailed documentation, screenshots, technologies used, and my contributions.
+
+- 🍽️ **[Trezzo](./trezzo)**
+- 🔥 **[Roast or Toast](./roast-or-toast)**
+- 📚 **[SpotSaver](./spotsaver)**
+- 💼 **[Employee Management System](./employee-management)**
+
+---
+
+⭐ Thank you for visiting my project portfolio!
