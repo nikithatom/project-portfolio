@@ -100,8 +100,7 @@ This application was developed collaboratively by **Team InnovateHers**.
 
 ## 🔗 Source Code
 
-👉 **[View Team Repository]([https://github.com/sanaamariya/InnovateHers](https://github.com/sanaamariya/tink-her-hack-3-InnovateHers))**
-
+👉 **[View Team Repository](https://github.com/sanaamariya/tink-her-hack-3-InnovateHers)**
 ---
 
 ## 🎥 Project Demo
